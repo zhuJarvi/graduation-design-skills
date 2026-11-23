@@ -1,0 +1,5 @@
+interface:
+  display_name: "毕业设计教练"
+  short_description: "从选题、实验到论文审查与答辩的完整毕业设计全流程辅导"
+  default_prompt: "使用 $graduation-design-coach 诊断我的毕业设计进度，并给出下一个有证据支撑的里程碑。"
+  brand_color: "#2563EB"

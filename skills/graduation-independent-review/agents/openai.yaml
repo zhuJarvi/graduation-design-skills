@@ -1,0 +1,5 @@
+interface:
+  display_name: "毕业设计独立审查"
+  short_description: "使用隔离子智能体独立审查公式推导、代码实现和毕业论文"
+  default_prompt: "使用 $graduation-independent-review 隔离子智能体审查我的公式推导。"
+  brand_color: "#B45309"
